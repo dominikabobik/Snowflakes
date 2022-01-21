@@ -1,5 +1,5 @@
 # Snowflakes
-This Java program is an JavaFX application that produces window filled with randlomly genereated snowflakes
+This Java program is an JavaFX application that produces window filled with randomly generated snowflakes
 
 ## Motivation 
 This project has been created as an exercises for working with the JavaFX library.
